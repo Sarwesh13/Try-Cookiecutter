@@ -1,0 +1,10 @@
+{
+    "class_name": {
+      "type": "string",
+      "prompt": "Enter the class name"
+    },
+    "method_names": {
+      "type": "string",
+      "prompt": "Enter the method names separated by commas"
+    }
+  }
